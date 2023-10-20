@@ -8,16 +8,12 @@
     "dev": "nodemon app/index.js",
     "test": "cross-env PORT=8000 DB_HOST=localhost DB_USER=postgres DB_PASSWORD=postgres DB_NAME=postgres DB_PORT=5432 jest --testTimeout=10000"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/jasonrostro/shopping_backend.git"
-  },
-  "author": "",
+  "author": "Jason",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonrostro/shopping_backend/issues"
+    "url": "https://github.com/jasonrostro/veritone-backend/issues"
   },
-  "homepage": "https://github.com/jasonrostro/shopping_backend#readme",
+  "homepage": "https://github.com/jasonrostro/veritone-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
